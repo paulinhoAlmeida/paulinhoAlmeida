@@ -14,15 +14,16 @@
 
 <div align="center">
 
-### 📈 **Complete Contribution History (2013-Present)**
+### 📈 **2025 Contribution History**
 ![GitHub Contribution Calendar](https://ghchart.rshah.org/00D4AA/paulinhoAlmeida)
 
 </div>
 
 <div align="center">
 
-### 🔥 **Contribution Streak** | 🏆 **Profile Trophy Case**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulinhoAlmeida&theme=dark&hide_border=true&background=0D1117&card_width=400) ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=paulinhoAlmeida&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7)
+| **🔥 Contribution Streak** | **🏆 Profile Trophy Case** |
+|:---------------------------:|:----------------------------:|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulinhoAlmeida&theme=dark&hide_border=true&background=0D1117&card_width=400) | ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=paulinhoAlmeida&theme=light&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&text_color=000000) |
 
 </div>
 
@@ -31,15 +32,13 @@
 
 | **Frontend & Web** | **Backend & Systems** | **AI & Data Science** | **DevOps & Cloud** |
 |:------------------:|:---------------------:|:---------------------:|:------------------:|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-47%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-12%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-18%25-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Go](https://img.shields.io/badge/Go-8%25-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/CSS-2%25-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Java](https://img.shields.io/badge/Java-6%25-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-2%25-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Dart](https://img.shields.io/badge/Dart-3%25-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-5%25-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![CoffeeScript](https://img.shields.io/badge/CoffeeScript-1%25-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-12%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-18%25-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Go](https://img.shields.io/badge/Go-13%25-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/CSS-2%25-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Java](https://img.shields.io/badge/Java-11%25-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-2%25-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Dart](https://img.shields.io/badge/Dart-3%25-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-11%25-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![CoffeeScript](https://img.shields.io/badge/CoffeeScript-1%25-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
 
 </div>
 
-**Total: 100%** - *Frontend & Web: 52% | Backend & Systems: 23% | AI & Data Science: 21% | DevOps & Cloud: 4%*
 
-> **Note:** The GitHub Stats chart shows public repository data, while the Streak chart displays your complete contribution history including private repos and organization contributions (1,697+ total contributions). This reflects your extensive work across multiple companies and private projects.
 
 ### 🎯 **Your Complete Contribution Overview**
 - **Total Contributions:** 1,697+ (including private & organization repos)
@@ -49,6 +48,7 @@
 - **GitHub Rank:** Top contributor across multiple organizations
 - **Repositories:** Public + Private + Organization repos
 - **Organizations:** Gov-AI, Vaudit, Martian Army, Neso Brands, Rabbit Care, Eternal, Central Tech, Pomelo Fashion
+- **NOTE:** Must contributions are made in private repositories and for legal reasons cannot be display here
 
 ---
 
