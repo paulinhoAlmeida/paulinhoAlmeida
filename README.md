@@ -23,7 +23,7 @@
 
 | **🔥 Contribution Streak** | **🏆 Profile Trophy Case** |
 |:---------------------------:|:----------------------------:|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulinhoAlmeida&theme=dark&hide_border=true&background=0D1117&card_width=400) | ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=paulinhoAlmeida&theme=light&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&text_color=000000) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulinhoAlmeida&theme=dark&hide_border=true&background=0D1117&card_width=400&border=0) | ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=paulinhoAlmeida&theme=light&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&text_color=000000&border=0) |
 
 </div>
 
